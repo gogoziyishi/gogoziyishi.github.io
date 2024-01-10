@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-Hello! I'm Ziyi(子弋), a passionate Business Analyst and Marketing enthusiast, currently enriching my knowledge at Fordham University. Explore my journey from Guiyang to New York, where analytics meets innovation.:sun_with_face::sun_with_face::sun_with_face:
+Hello! I'm Ziyi(子弋), a passionate Business Analyst and Marketing enthusiast, currently enriching my knowledge at Fordham University. Explore my journey from Guiyang to New York, where analytics meets innovation.🌞🌞🌞
 
 About Me
 ======
