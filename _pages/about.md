@@ -12,7 +12,7 @@ Hello! I'm Ziyi(子弋), a passionate Business Analyst and Marketing enthusiast,
 
 About Me
 ======
-Academic Background: Beginning my academic journey at the University of Utah, I delved deep into the world of Business Analytics and Marketing, experiencing a blend of innovative approaches and practical applications. My journey then led me to Fordham University, where I've continued to expand my knowledge and skills in this dynamic field.
+**Academic Background**: Beginning my academic journey at the University of Utah, I delved deep into the world of Business Analytics and Marketing, experiencing a blend of innovative approaches and practical applications. My journey then led me to Fordham University, where I've continued to expand my knowledge and skills in this dynamic field.
 
 Professional Experience: Throughout my career, I've embraced diverse roles, from enhancing operations to formulating effective marketing strategies. My internship in the insurance sector further enriched my professional experience, providing valuable insights into industry practices.
 
@@ -22,5 +22,5 @@ Interests: Apart from my professional pursuits, I've been involved in a groundbr
 
 Contact
 ======
-I am always open to collaborative opportunities and discussions. Reach out to me at [email] or connect with me on [LinkedIn profile link].
+I am always open to collaborative opportunities and discussions. Reach out to me at [email](ziyishi@fordham.edu) or connect with me on [LinkedIn profile link](https://www.linkedin.com/in/ziyishi/).
 
