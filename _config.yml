@@ -82,12 +82,12 @@ analytics:
 author:
   name             : "Ziyi Shi"
   avatar           : "headshot.jpg"
-  bio              : "Fordham University"
+  bio              : "MSBA | Fordham University | Gabelli School of Business"
   location         : "New York City"
   employer         :
   pubmed           :
   googlescholar    : 
-  email            : "ziyishi@fordham.edu"
+  email            : #"ziyishi@fordham.edu"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
